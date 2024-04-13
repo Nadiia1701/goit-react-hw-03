@@ -1,0 +1,17 @@
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #d3d3d3;
+    height: 35px;
+    width: 150px;
+}

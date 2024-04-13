@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 10px;
+}
+
+.btn {
+    background-color: #d3d3d3;
+    height: 35px;
+}
